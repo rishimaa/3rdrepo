@@ -5,4 +5,4 @@ and sends an email to the user about their daily horoscope
 
 input : user's sunsign and email id
 
-output : an email is sent to the users  
+output : an email is sent to the user
